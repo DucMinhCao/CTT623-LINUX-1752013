@@ -11,22 +11,161 @@ BTTH LINUX
 
 * Môn Học : Thực Hành Hệ Điều Hành Linux
 
-# Tuần 01: 
-
-# Tuần 02:
-
-# Tuần 03:
-
-# Tuần 04:
-
-# Tuần 05:
-
-# Tuần 06:
-
-# Tuần 07:
-
-# Tuần 08:
-
-# Tuần 09:
- 
-# Tuần 10:
+## BTTL
+### Tuần 1
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 2
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 3
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+## BTTH
+### Tuần 1
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 2
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 3
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 4
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 5
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 6
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 7
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 8
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+### Tuần 9
+1. Bài 1
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+2. Bài 2
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
+3. Bài 3
+- Hoàn thành:
+- Chưa hoàn thành:
+- Câu hỏi:
