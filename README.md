@@ -54,41 +54,41 @@ BTTH LINUX
 ## BTTH
 ### Tuần 1
 1. Bài 1
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 2. Bài 2
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 3. Bài 3
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 ### Tuần 2
 1. Bài 1
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 2. Bài 2
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 3. Bài 3
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
-- Câu hỏi:
+- Câu hỏi: BTTH2_Bai03 Script giong voi BTTH3
 ### Tuần 3
 1. Bài 1
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 2. Bài 2
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 3. Bài 3
-- Hoàn thành:
+- Hoàn thành: 100%
 - Chưa hoàn thành:
 - Câu hỏi:
 ### Tuần 4
