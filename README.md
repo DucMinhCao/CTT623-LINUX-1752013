@@ -13,34 +13,12 @@ BTTH LINUX
 
 ## BTTL
 ### Tuần 1
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
+Khong Co Bai Tap Tai Lop
 ### Tuần 2
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
+Khong Co Bai Tap Tai Lop
 ### Tuần 3
 1. Bài 1
-- Hoàn thành:
+- Hoàn thành: 
 - Chưa hoàn thành:
 - Câu hỏi:
 2. Bài 2
