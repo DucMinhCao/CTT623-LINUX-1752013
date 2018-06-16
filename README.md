@@ -52,18 +52,7 @@ Khong Co Bai Tap Tai Lop
 - Hoàn thành: 100%
 
 ### Tuần 4
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
+- Thi Thực Hành Giữa Kỳ
 ### Tuần 5
 1. Bài 1
 - Hoàn thành:
