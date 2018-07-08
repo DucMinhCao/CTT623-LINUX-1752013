@@ -1,0 +1,148 @@
+#!/bin/bash
+
+FLAG_SUM=false
+
+FLAG_MULT=false
+
+
+
+showHelp()
+
+{
+
+    echo "$0 [-h | --help ] [ -s | --sum ] [ -m | --mult ] list_of_numbers"
+
+}
+
+
+
+displaylist()
+
+{
+
+    while [ $# -gt 0 ]
+    
+	do
+	
+		echo $1
+	
+		shift
+    
+	done
+
+}
+
+
+
+sum() 
+
+{
+
+    tong=0
+
+    while [ $# -gt 0 ]
+    
+    	do
+	
+		tong=$((tong+$1))
+	
+		shift
+    
+    	done
+    
+    echo $tong
+
+}
+
+
+
+mult()
+
+{
+
+    tich=1
+
+    while [ $# -gt 0 ]
+    
+    	do
+	
+		tich=$((tich * $1))
+	
+		shift
+    
+    	done
+    
+    echo $tich
+
+}
+
+
+
+
+showResult()
+
+{
+
+if $FLAG_SUM
+
+then
+    
+	sum 1 2 3 4
+
+else
+    
+	exit 1
+
+fi
+
+
+
+if $FLAG_MULT
+
+then
+    
+	mult 1 2 3 4
+
+else
+    
+	exit 1
+
+fi
+
+}
+
+
+
+menu()
+
+{
+
+if [ $# -lt 1 ]
+
+then
+    
+	showHelp
+
+fi
+
+
+while [ $# -ge 1 ]
+
+do
+    
+	case $1 in
+	
+		-h|--help) showHelp
+		   exit 1;;
+	
+		-s|--sum) FLAG_SUM=true
+		 shift;;
+	
+		-m|--mult) FLAG_MULT=true
+	shift;;
+    
+	esac
+
+done
+showResult
+}
