@@ -31,6 +31,8 @@ Khong Co Bai Tap Tai Lop
 - Hoàn thành: 100%
 7. Bài 7
 - Hoàn thành: 100%
+### Tuần 4
+- Hoàn Thành 100%
 ## BTTH
 ### Tuần 1
 1. Bài 1
