@@ -33,6 +33,8 @@ Khong Co Bai Tap Tai Lop
 - Hoàn thành: 100%
 ### Tuần 4
 - Hoàn Thành 100%
+### Tuần 5
+- Hoàn Thành 100%, Đã Nạp Moodle
 ## BTTH
 ### Tuần 1
 1. Bài 1
