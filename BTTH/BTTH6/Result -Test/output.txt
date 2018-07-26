@@ -1,0 +1,1 @@
+so luong so nguyen trong tham so la : 5. Numbers : 45 56 69 72 99 . Even Numbers : 56 72 . Odd Numbers : 45 69 99 . Max : 99 . Min: 45 . Gia tri o vi tri 4 la : 72
