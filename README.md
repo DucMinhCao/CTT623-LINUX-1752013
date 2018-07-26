@@ -57,45 +57,13 @@ Khong Co Bai Tap Tai Lop
 
 ### Tuần 4
 - Thi Thực Hành Giữa Kỳ
-### Tuần 5
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-### Tuần 6
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
+### Tuần 5+6
+- Hoàn Thành 100%
+- Có ảnh Result của Script
+- File Input.txt, Output.txt
 ### Tuần 7
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
+- Hoàn Thành 100% ( Thầy Đức giao làm Câu 1 )
+- Có ảnh Result của Script
 ### Tuần 8
 1. Bài 1
 - Hoàn thành:
