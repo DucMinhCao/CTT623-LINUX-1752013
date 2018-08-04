@@ -1,5 +1,5 @@
-#! /bin/bash
-#cau1
+#!/bin/bash
+#bai1
 sudo su
 adduser sinhvien01
 adduser sinhvien02
@@ -43,7 +43,7 @@ cd ..
 cp sinhvien01/bainoptxt giaovien02
 chown gr_giaovien sinhvien01/bainop.txt
 
-#cau2
+#bai2
 umask
 chmod ug+rw file.txt
 chmod ugo+x file1.txt
