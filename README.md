@@ -11,7 +11,7 @@ BTTH LINUX
 
 * Môn Học : Thực Hành Hệ Điều Hành Linux
 
-## BTTL
+## Bài Tập Tại Lớp
 ### Tuần 1
 Khong Co Bai Tap Tai Lop
 ### Tuần 2
@@ -35,7 +35,8 @@ Khong Co Bai Tap Tai Lop
 - Hoàn Thành 100%
 ### Tuần 5
 - Hoàn Thành 100%, Đã Nạp Moodle
-## BTTH
+
+## Bài Tập Thực Hành
 ### Tuần 1
 1. Bài 1
 - Hoàn thành: 100%
@@ -52,7 +53,6 @@ Khong Co Bai Tap Tai Lop
 - Hoàn thành: 100%
 - Câu hỏi: BTTH2_Bai03 Script giong voi BTTH3
 ### Tuần 3
-1. Bài 1
 - Hoàn thành: 100%
 
 ### Tuần 4
@@ -66,16 +66,4 @@ Khong Co Bai Tap Tai Lop
 - Có ảnh Result của Script
 ### Tuần 8
 - Hoàn Thành 100%
-### Tuần 9
-1. Bài 1
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-2. Bài 2
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
-3. Bài 3
-- Hoàn thành:
-- Chưa hoàn thành:
-- Câu hỏi:
+
