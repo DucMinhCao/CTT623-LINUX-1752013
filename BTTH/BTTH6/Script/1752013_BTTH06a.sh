@@ -53,7 +53,7 @@ getMax()
     max=$1
     while [ $# -gt 0 ]
     do
-	if [ $1 > $max ]
+	if [ $1 -gt $max ]
 	then
 	    max=$1
 	fi
