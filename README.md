@@ -12,29 +12,7 @@ BTTH LINUX
 * Môn Học : Thực Hành Hệ Điều Hành Linux
 
 ## Bài Tập Tại Lớp
-### Tuần 1
-Khong Co Bai Tap Tai Lop
-### Tuần 2
-Khong Co Bai Tap Tai Lop
-### Tuần 3
-1. Bài 1
-- Hoàn thành: 100%
-2. Bài 2
-- Hoàn thành: 100%
-3. Bài 3
-- Hoàn thành: 100%
-4. Bài 4
-- Hoàn thành: 100%
-5. Bài 5
-- Hoàn thành: 100%
-6. Bài 6
-- Hoàn thành: 100%
-7. Bài 7
-- Hoàn thành: 100%
-### Tuần 4
-- Hoàn Thành 100%
-### Tuần 5
-- Hoàn Thành 100%, Đã Nạp Moodle
+Hoàn Thành 100%, Đã nộp Moodle.
 
 ## Bài Tập Thực Hành
 ### Tuần 1
